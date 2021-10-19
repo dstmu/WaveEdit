@@ -1,4 +1,4 @@
-# Synthesis Technology WaveEdit
+# Synthesis Technology WaveEdit w/ Waldorf M compatibe export
 
 The wavetable and bank editor for the Synthesis Technology [E370](http://synthtech.com/eurorack/E370/) and [E352](http://synthtech.com/eurorack/E352/) Eurorack synthesizer modules.
 
